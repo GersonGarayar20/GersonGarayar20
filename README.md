@@ -21,9 +21,6 @@
 </a>
 </p>
 
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-</a>
-</p>
 
 <!--
 **GersonGarayar20/GersonGarayar20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
