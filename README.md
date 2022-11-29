@@ -7,7 +7,7 @@
 
 - 🌱 ESTOY ESTUDIANDO **NEXT JS y NODE JS**
 
-- 👨‍💻 TODOS MIS PROYECTOS ESTÁN EN [MY PORTFOLIO](gersongarayar.netlify.app)
+- 👨‍💻 TODOS MIS PROYECTOS ESTÁN EN [MY PORTFOLIO](https://gersongarayar.netlify.app/)
 
 - 📫 PUEDES CONTACTARME EN **garayargerson30@gmail.com**
 
