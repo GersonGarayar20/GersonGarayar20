@@ -3,9 +3,7 @@
 <h1 align="center">Hola 👋, Soy GERSON GARAYAR</h1>
 <h3 align="center">FRONTEND DEVELOPER</h3>
 
-- 🔭 ACTUALMENTE TRABAJO EN [PLAY VIDEOS](https://github.com/devSalas/video-platform-app)
-
-- 🌱 ESTOY ESTUDIANDO **NEXT JS y NODE JS**
+- 🌱 ESTOY ESTUDIANDO **LARAVEL**
 
 - 👨‍💻 TODOS MIS PROYECTOS ESTÁN EN [MY PORTFOLIO](https://gersongarayar.netlify.app/)
 
