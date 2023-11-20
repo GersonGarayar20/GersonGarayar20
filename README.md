@@ -5,6 +5,6 @@ Apasionado por el desarrollo web y la creación de interfaces de usuario que pro
 
 ¡En el desarrollo web, no existen límites, solo oportunidades.!
 
-- 👨‍💻 Puedes ver mi proyectos en mi [portfolio](https://gersongarayar.vercel.app/)
+- 👨‍💻 Puedes ver mi proyectos en mi [portfolio](https://gersongarayar.netlify.app/)
 
 - 📫 Contactame **garayargerson30@gmail.com**
