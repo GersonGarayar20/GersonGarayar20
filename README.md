@@ -1,10 +1,8 @@
-<h1>Hola 👋, Soy Gerson Garayar</h1>
-<h2>Desarrollador web</h2>
+# Gerson Garayar
+### Web Developer | React | Next.js
 
-Apasionado por el desarrollo web y la creación de interfaces de usuario que proporcionen experiencias excepcionales.
+🚀 Explore my projects at [gers.dev](https://gers.dev/).
 
-¡En el desarrollo web, no existen límites, solo oportunidades.!
+Let's connect to share ideas and opportunities.
 
-- 👨‍💻 Puedes ver mi proyectos en mi [portfolio](https://gers.netlify.app/)
-
-- 📫 Contactame **garayargerson30@gmail.com**
+📫 Contact me at gersongarayar@gmail.com or find out more about me on [LinkedIn](https://www.linkedin.com/in/gerson-garayar/).
